@@ -30,7 +30,7 @@ var app = express();
 app.use(express.static('static'));
 
 app.all('/model/:route', function(req, res) {
-  console.log('Sending request to model API...')
+  console.log('Sending request to model API...');
   req.pipe(request(args.model + req.path)).pipe(res);
 });
 
