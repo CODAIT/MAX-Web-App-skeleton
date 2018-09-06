@@ -1,5 +1,5 @@
 {
-  "name": "max-web-app",
+  "name": "max-web-app-skeleton",
   "version": "1.0.0",
   "description": "A web app utilizing the [INSERT MAX MODEL NAME]([INSERT MAX MODEL GITHUB]) model",
   "main": "app.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajbozarth/MAX-Web-App.git"
+    "url": "git+https://github.com/CODAIT/MAX-Web-App-skeleton.git"
   },
   "author": "Alex Bozarth",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ajbozarth/MAX-Web-App/issues"
+    "url": "https://github.com/CODAIT/MAX-Web-App-skeleton/issues"
   },
-  "homepage": "https://github.com/ajbozarth/MAX-Web-App#readme",
+  "homepage": "https://github.com/CODAIT/MAX-Web-App-skeleton#readme",
   "dependencies": {
     "express": "^4.16.3",
     "request": "^2.87.0",

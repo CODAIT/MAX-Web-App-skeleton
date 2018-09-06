@@ -1,10 +1,10 @@
-[![Build Status](https://travis-ci.org/ajbozarth/MAX-Web-App.svg?branch=master)](https://travis-ci.org/ajbozarth/MAX-Web-App)
+[![Build Status](https://travis-ci.org/CODAIT/MAX-Web-App-skeleton.svg?branch=master)](https://travis-ci.org/CODAIT/MAX-Web-App-skeleton)
 
-# MAX Web App
+# MAX Web App skeleton
 
-> This is a fully functioning template for MAX model web apps. This web app will work as is for
-any MAX model running on port `5000` with an image input. This template is meant to be used as a
-base for any new MAX web apps created by the CODAIT dev team.
+> This is a fully functioning skeleton for MAX model web apps. This web app will work as is for
+any MAX model running on port `5000` with an image input and json output. This skeleton is meant
+to be used as a base for any new MAX web apps created by the CODAIT dev team.
 
 A web app utilizing the [INSERT MAX MODEL NAME]([INSERT MAX MODEL GITHUB]) model
 
@@ -31,13 +31,13 @@ If you'd rather build and run the model locally, or deploy on a Kubernetes clust
 Clone the web app repository locally. In a terminal, run the following command:
 
 ```
-$ git clone https://github.com/ajbozarth/MAX-Web-App.git
+$ git clone https://github.com/CODAIT/MAX-Web-App-skeleton.git
 ```
 
 Change directory into the repository base folder:
 
 ```
-$ cd MAX-Web-App
+$ cd MAX-Web-App-skeleton
 ```
 
 #### 2. Install dependencies
