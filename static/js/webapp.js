@@ -50,7 +50,7 @@ $(function() {
           $('#json-output').html(output);
         },
         error: function(jqXHR, status, error) {
-          alert('Prediction Failed: ' + error);
+          alert('Prediction Failed: ' + jqXHR.responseText);
         },
         complete: function() {
           // Restore submit button functionality
